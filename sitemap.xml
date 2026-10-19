@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ============================================================ -->
+  <!-- PAGE D'ACCUEIL — priorité maximale, fréquence maximale -->
+  <!-- ============================================================ -->
+  <url>
+    <loc>https://www.bokonongbemadoyomin.bj/</loc>
+    <lastmod>2026-01-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+
+    <!-- Variantes linguistiques -->
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.bokonongbemadoyomin.bj/"/>
+    <xhtml:link rel="alternate" hreflang="fr-BJ" href="https://www.bokonongbemadoyomin.bj/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.bokonongbemadoyomin.bj/"/>
+
+    <!-- ============================================ -->
+    <!-- IMAGES : PORTRAITS OFFICIELS (10 images) -->
+    <!-- ============================================ -->
+    <image:image>
+      <image:loc>https://www.bokonongbemadoyomin.bj/portrait-1.jpg</image:loc>
+      <image:title>Portrait officiel de BOKONON GBÊMADOYÔMIN</image:title>
+      <image:caption>BOKONON GBÊMADOYÔMIN — Bokônon Gbêmadoyômin, chercheur béninois en traditions africaines, auteur et Professeur de Fa</image:caption>
+      <image:geo_location>Massè, Plateau, Bénin</image:geo_location>
+      <image:license>https://www.bokonongbemadoyomin.bj/</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.bokonongbemadoyomin.bj/portrait-2.jpg</image:loc>
+      <image:title>BOKONON GBÊMADOYÔMIN en tenue traditionnelle Vodoun</image:title>
+      <image:caption>Portrait de BOKONON GBÊMADOYÔMIN en tenue traditionnelle — dignitaire du culte Vodoun au Bénin</image:caption>
+      <image:geo_location>Massè, Plateau, Bénin</image:geo_location>
+      <image:license>https://www.bokonongbemadoyomin.bj/</image:license>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.bokonongbemadoyomin.bj/portrait-3.jpg</image:loc>
+      <image:title>BOKONON GBÊMADOYÔMIN — portrait officiel 3</image:title>
+      <image:caption>Galerie officielle de BOKONON GBÊMADOYÔMIN, Professeur de Fa et expert-consultant en géomancie africaine</image:caption>
+      <image:geo_location>Massè, Plateau, Bénin</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.bokonongbemadoyomin.bj/portrait-4.jpg</image:loc>
+      <image:title>BOKONON GBÊMADOYÔMIN — portrait officiel 4</image:title>
+      <image:caption>Galerie officielle de BOKONON GBÊMADOYÔMIN, chercheur en traditions africaines</image:caption>
+      <image:geo_location>Massè, Plateau, Bénin</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.bokonongbemadoyomin.bj/portrait-5.jpg</image:loc>
+      <image:title>BOKONON GBÊMADOYÔMIN — portrait officiel 5</image:title>
+      <image:caption>Galerie officielle de BOKONON GBÊMADOYÔMIN, auteur et Professeur de Fa</image:caption>
+      <image:geo_location>Massè, Plateau, Bénin</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.bokonongbemadoyomin.bj/portrait-6.jpg</image:loc>
+      <image:title>BOKONON GBÊMADOYÔMIN — arrière-plan du site officiel</image:title>
+      <image:caption>Portrait de BOKONON GBÊMADOYÔMIN — image d'arrière-plan de la page d'accueil</image:caption>
+      <image:geo_location>Massè, Plateau, Bénin</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.bokonongbemadoyomin.bj/portrait-7.jpg</image:loc>
+      <image:title>BOKONON GBÊMADOYÔMIN — portrait officiel 7</image:title>
+      <image:caption>Galerie officielle de BOKONON GBÊMADOYÔMIN, fondateur de l'ONG Gbêmadoyomin et de Vibration Sacrée</image:caption>
+      <image:geo_location>Massè, Plateau, Bénin</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.bokonongbemadoyomin.bj/portrait-8.jpg</image:loc>
+      <image:title>BOKONON GBÊMADOYÔMIN — portrait officiel 8</image:title>
+      <image:caption>Galerie officielle de BOKONON GBÊMADOYÔMIN, chercheur et auteur béninois</image:caption>
+      <image:geo_location>Massè, Plateau, Bénin</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.bokonongbemadoyomin.bj/portrait-9.jpg</image:loc>
+      <image:title>BOKONON GBÊMADOYÔMIN — image de citation</image:title>
+      <image:caption>Portrait de BOKONON GBÊMADOYÔMIN — section citation du site officiel</image:caption>
+      <image:geo_location>Massè, Plateau, Bénin</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.bokonongbemadoyomin.bj/portrait-10.jpg</image:loc>
+      <image:title>Portrait de BOKONON GBÊMADOYÔMIN — format partage social</image:title>
+      <image:caption>Portrait officiel de BOKONON GBÊMADOYÔMIN — image Open Graph 1200×630 pour WhatsApp, Facebook, Twitter, LinkedIn</image:caption>
+      <image:geo_location>Massè, Plateau, Bénin</image:geo_location>
+    </image:image>
+
+    <!-- ============================================ -->
+    <!-- IMAGES : COUVERTURES DE LIVRES (3 livres) -->
+    <!-- ============================================ -->
+    <image:image>
+      <image:loc>https://www.bokonongbemadoyomin.bj/livre-1.jpg</image:loc>
+      <image:title>Le Code de Vie : Les Commandements du Guerrier Moderne — BOKONON GBÊMADOYÔMIN</image:title>
+      <image:caption>Couverture du livre « Le Code de Vie : Les Commandements du Guerrier Moderne » de BOKONON GBÊMADOYÔMIN — principes de vie et discipline intérieure</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.bokonongbemadoyomin.bj/livre-2.jpg</image:loc>
+      <image:title>La Clé des Naissances — BOKONON GBÊMADOYÔMIN</image:title>
+      <image:caption>Couverture du livre « La Clé des Naissances » de BOKONON GBÊMADOYÔMIN — sciences sacrées africaines et traditions initiatiques</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://www.bokonongbemadoyomin.bj/livre-3.jpg</image:loc>
+      <image:title>Le Livre d'Astuces — BOKONON GBÊMADOYÔMIN</image:title>
+      <image:caption>Couverture du livre « Le Livre d'Astuces » de BOKONON GBÊMADOYÔMIN — conseils et réflexions pour avancer dans la vie</image:caption>
+    </image:image>
+
+  </url>
+
+</urlset>
