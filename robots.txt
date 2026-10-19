@@ -1,0 +1,117 @@
+# robots.txt — https://www.bokonongbemadoyomin.bj/robots.txt
+# Site officiel : BOKONON GBÊMADOYÔMIN
+# Politique : indexation totale, aucune restriction
+
+# ============================================================
+# TOUS LES ROBOTS — accès complet et illimité
+# ============================================================
+User-agent: *
+Allow: /
+Disallow:
+
+# ============================================================
+# GOOGLE — indexation maximale (texte + images + actualités)
+# ============================================================
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Google-InspectionTool
+Allow: /
+
+User-agent: Storebot-Google
+Allow: /
+
+# ============================================================
+# BING / MICROSOFT
+# ============================================================
+User-agent: Bingbot
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: AdIdxBot
+Allow: /
+
+# ============================================================
+# YAHOO / DUCKDUCKGO / YANDEX / BAIDU
+# ============================================================
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# ============================================================
+# RÉSEAUX SOCIAUX — aperçus de partage (photos visibles)
+# ============================================================
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: Pinterest
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: SkypeUriPreview
+Allow: /
+
+# ============================================================
+# ARCHIVES / OUTILS SEO (laissés ouverts pour visibilité)
+# ============================================================
+User-agent: ia_archiver
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: MJ12bot
+Allow: /
+
+User-agent: PetalBot
+Allow: /
+
+# ============================================================
+# SITEMAP
+# ============================================================
+Sitemap: https://www.bokonongbemadoyomin.bj/sitemap.xml
